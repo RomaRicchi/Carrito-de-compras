@@ -1,0 +1,88 @@
+import type { Cap } from '../types/Cap'
+
+export const db: Cap[] = [
+  {
+    id: 1,
+    name: 'Sand Urban',
+    image: 'cap_01',
+    description: 'Gorra color arena, liviana y moderna.',
+    price: 27,
+  },
+  {
+    id: 2,
+    name: 'Classic Black',
+    image: 'cap_02',
+    description: 'Gorra urbana clásica en color negro, diseño minimalista y ajuste regulable.',
+    price: 25,
+  },
+  {
+    id: 3,
+    name: 'Snap Wine',
+    image: 'cap_03',
+    description: 'Gorra snapback roja con visera plana y logo frontal.',
+    price: 30,
+  },
+  {
+    id: 4,
+    name: 'NY Basic',
+    image: 'cap_04',
+    description: 'Gorra NY bordada, cómoda y versátil.',
+    price: 24,
+  },
+  {
+    id: 5,
+    name: 'Olive Street',
+    image: 'cap_09',
+    description: 'Gorra verde de estilo urbano con costuras reforzadas.',
+    price: 29,
+  },
+  {
+    id: 6,
+    name: 'Green Fit',
+    image: 'cap_06',
+    description: 'Gorra verde oliva con ajuste trasero y diseño moderno.',
+    price: 28,
+  },
+  {
+    id: 7,
+    name: 'Logo',
+    image: 'cap_07',
+    description: 'Gorra minimalista con logo pequeño bordado.',
+    price: 26,
+  },
+  {
+    id: 8,
+    name: 'Street white',
+    image: 'cap_08',
+    description: 'Gorra negra full street con visera curva.',
+    price: 31,
+  },
+  {
+    id: 9,
+    name: 'Urban Basic',
+    image: 'cap_05',
+    description: 'Gorra de estilo streetwear, ideal para uso diario.',
+    price: 27,
+  },
+  {
+    id: 10,
+    name: 'Dark Denim',
+    image: 'cap_10',
+    description: 'Gorra logo capitan america con terminaciones premium.',
+    price: 32,
+  },
+  {
+    id: 11,
+    name: 'Red Duff',
+    image: 'cap_11',
+    description: 'Gorra snapback edicion limitda.',
+    price: 34,
+  },
+  {
+    id: 12,
+    name: 'Limited Edition',
+    image: 'cap_12',
+    description: 'Edición limitada, materiales premium y diseño exclusivo.',
+    price: 40,
+  },
+]
