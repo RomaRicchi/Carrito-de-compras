@@ -86,6 +86,6 @@ Pasarela de pagos
 
 Filtros y búsqueda de productos
 
-
+https://carrito-cap-roma.netlify.app/
 
 <img width="971" height="834" alt="image" src="https://github.com/user-attachments/assets/3f0a6bd9-1d6e-4484-85cf-fbaf2280f2dd" />
